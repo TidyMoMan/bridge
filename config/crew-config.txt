@@ -1,0 +1,10 @@
+# group_chat config
+# USER_COLOR: any 256-color ANSI code (38;5;N where N is 0-255)
+
+USER       = Mo
+USER_COLOR = 82
+
+BOTS =
+  Engineer , bridge-engineer-phi4
+  Navigator , bridge-navigator-llama
+  Intern , bridge-intern-llama

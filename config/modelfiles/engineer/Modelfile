@@ -1,0 +1,7 @@
+FROM phi4:14b
+
+SYSTEM """
+  
+  
+  
+"""
