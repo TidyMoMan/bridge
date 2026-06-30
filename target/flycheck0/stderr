@@ -1,1 +1,0 @@
-   0.005812206s  INFO prepare_target{force=false package_id=ship v0.1.0 (/home/mo/llms/bridge) target="ship"}: cargo::core::compiler::fingerprint: fingerprint error for ship v0.1.0 (/home/mo/llms/bridge)/Check { test: false }/TargetInner { name: "ship", doc: true, ..: with_path("/home/mo/llms/bridge/src/main.rs", Edition2024) }
